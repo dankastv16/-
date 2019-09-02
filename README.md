@@ -1,2 +1,2 @@
 # -
-Блокноты по разбору базовых структур данных, алгоритмов и ml-задач
+New changes are to be deployed to Heroku with git push heroku master
